@@ -1,8 +1,8 @@
 body
 {
-    color: red;
+    color: black;
     text-align: center;
-    font-family: "Gill Sans";
+    font-family: cursive;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -28,7 +28,7 @@ body
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid darkorchid;
     margin: 5 auto;
@@ -37,4 +37,9 @@ body
 #container h1
 {
     font-size: 20px;
+}
+
+#post
+{
+    padding: 1em;
 }
