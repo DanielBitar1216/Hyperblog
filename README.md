@@ -17,4 +17,4 @@ Los dos estaban **caminando en el mismo sentido**, y no hablo de la dirección e
 
 - Él la miró , él contesto con un suspiro, y el universo conspiró para abrazarlos.
 
-- Dos extraños bailando bajo la luna
+- Dos extraños bailando bajo la luna, se convierten en amantes al compás
