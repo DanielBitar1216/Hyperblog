@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f46c:
+# Hyperblog :blue_heart:
 
 Un blog increíble para el curso de GitHub
 
