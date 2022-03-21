@@ -16,3 +16,5 @@ Esto es [Destino o Casualidad](https://destinoocausalidad.ash.co "Destino o Casu
 Los dos estaban **caminando en el mismo sentido**, y no hablo de la dirección errante de sus pasos. 
 
 - Él la miró , él contesto con un suspiro, y el universo conspiró para abrazarlos.
+
+- Dos extraños bailando bajo la luna
