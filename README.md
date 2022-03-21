@@ -11,6 +11,8 @@ Esto es [Destino o Casualidad](https://destinoocausalidad.ash.co "Destino o Casu
 - El daba como cada noche vueltas en la cama, sonó de pronto una canción romantica en la radio.
 
 - Quizá fue Michael Borton que metió el dedo en la yaga
-- Y como le faltaba el sueño fue a buscarlo
+- Y como le faltaba el sueño fue a buscarlo.
 
 Los dos estaban **caminando en el mismo sentido**, y no hablo de la dirección errante de sus pasos. 
+
+- Él la miró , él contesto con un suspiro, y el universo conspiró para abrazarlos.
